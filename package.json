@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "sass": "^1.68.0"
+    "sass": "^1.69.5"
   },
   "name": "cv",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "sass":"sass -w scss:css"
+    "sass": "sass -w scss:css"
   },
   "keywords": [],
   "author": "",
